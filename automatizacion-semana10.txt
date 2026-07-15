@@ -1,0 +1,14 @@
+Evento que activa el flujo:
+Nuevo reporte registrado en el sistema.
+
+Mensaje enviado a Telegram:
+"Nuevo reporte recibido. Revisar el sistema para realizar seguimiento."
+
+Información que no debe enviarse:
+
+- Nombres completos.
+- Números de identificación.
+- Direcciones.
+- Teléfonos.
+- Contraseñas.
+- Datos sensibles o privados.

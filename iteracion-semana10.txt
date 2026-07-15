@@ -1,0 +1,16 @@
+¿Qué dos tareas del backlog harías primero?
+
+1. Implementar el registro de incidencias comunitarias.
+2. Configurar las notificaciones automáticas en Telegram.
+
+¿Por qué son las más importantes?
+
+Porque permiten registrar la información y notificar rápidamente a los responsables para iniciar el seguimiento.
+
+¿Qué significa para ti que una tarea esté terminada?
+
+Una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y verificada.
+- Quedó registrada en Git.
