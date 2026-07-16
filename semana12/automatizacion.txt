@@ -1,0 +1,13 @@
+Evento que activa la automatización:
+Nueva causa registrada en la plataforma.
+
+Mensaje enviado:
+"Nueva causa creada en la plataforma Petición en 3 Clics."
+
+Información que no debe enviarse:
+- Cédulas
+- Teléfonos
+- Direcciones
+- Correos electrónicos
+- Comentarios sensibles
+- Datos personales

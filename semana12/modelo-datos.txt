@@ -1,0 +1,15 @@
+Entidad: Causa
+id
+titulo
+descripcion
+fecha
+
+La entidad Causa almacena la información principal de cada petición ciudadana.
+
+Entidad: Apoyo
+id
+causa_id
+nombre
+fecha
+
+La entidad Apoyo registra las personas que respaldan la causa y permite contabilizar los apoyos.
